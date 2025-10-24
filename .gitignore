@@ -24,3 +24,6 @@ Thumbs.db
 
 # Environment / Config
 .env
+
+# Maven
+.mvn/wrapper
